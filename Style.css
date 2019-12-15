@@ -1,0 +1,71 @@
+html{
+    background-color: #FF8C00;
+    
+}
+
+body{
+    background-color: orange !important;
+}
+
+.header
+{
+    text-align: center;
+    background-color: orange;
+    padding: 20px 0 20px 0;
+    font-family: 'Comfortaa', cursive;
+}
+.footer
+{
+    text-align: center;
+    background-color: orange;
+    padding: 20px 0 34px 0;
+    margin: auto;
+    position: absolute;
+    bottom: 0px;
+    font-family: 'Comfortaa', cursive;
+    
+}
+.left
+{
+    padding: 50px 0 20px 20px;
+    background-color: #FF8C00;
+    font-family: 'Comfortaa', cursive;
+    
+
+    
+}
+.right
+{
+    
+    padding: 50px 0 20px 0px;
+    background-color: #FF8C00;
+    font-family: 'Comfortaa', cursive;
+   
+}
+
+
+.message
+{
+    width: 90%;
+    height: 450px;
+    font-family: 'Comfortaa', cursive;
+    border-radius: 10px;
+    
+    
+}
+
+.dialogue
+{
+    width: 95%;
+    height: 500px;
+    margin: auto;
+    font-family: 'Comfortaa', cursive;
+    border-radius: 10px;
+    
+}
+
+.reg
+{
+    border-radius: 10px;
+    
+}
